@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=""
+#EXTM3U url-tvg="https://github.com/1gumaris/Live/blob/main/live.xml"
 
 #EXTINF:-1 tvg-logo="https://kolektiva.social/system/accounts/avatars/109/806/087/261/068/221/original/82ce4a49924ff8c5.jpg" group-title="Danny" tvg-id="Danny 4k", Danny 4k
 acestream://c957b0b3e9a5b7602cd7c769c8aa386b2e1a4f45
@@ -26,18 +26,6 @@ acestream://4229d640fecf3c0897674241bcf851b67f4310e3
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm2.png" group-title="La Liga" tvg-id="M+ LaLiga 2 HD", [ ESP] La Liga 2 - 720
 acestream://a92af592ba7f8f2f087ee34b91662db47705ca52
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm3.png" group-title="La Liga" tvg-id="M+ LaLiga 3 HD", [ ESP] La Liga 3 - 720
-Acestream://
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm4.png" group-title="La Liga" tvg-id="M+ LaLiga 4 HD", [ ESP] La Liga 4 - 720
-Acestream://
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm5.png" group-title="La Liga" tvg-id="M+ LaLiga 5 HD", [ ESP] La Liga 5 - 720
-Acestream://
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm6.png" group-title="La Liga" tvg-id="M+ LaLiga 6 HD", [ ESP] La Liga 6 - 720
-Acestream://
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN LaLigaHD", [ ESP] DAZN LaLiga - 1080 Multiaudio
 acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
