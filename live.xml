@@ -186,8 +186,8 @@ acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/DAZNf1.png" group-title="9. DAZN F1" tvg-id="DAZN F1 HD", 93. DAZN F1 - 720
 acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
 
-#EXTINF:-1 tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20180911181421_1200.jpg" group-title="92. M+ Vamos" tvg-id="Vamos FHD", 921. Vamos 1080 
+#EXTINF:-1 tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20180911181421_1200.jpg" group-title="9. M+ Vamos" tvg-id="Vamos FHD", 941. Vamos 1080 
 acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 
-#EXTINF:-1 tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20180911181421_1200.jpg" group-title="92. M+ Vamos" tvg-id="Vamos HD", 922. Vamos 720
+#EXTINF:-1 tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20180911181421_1200.jpg" group-title="9. M+ Vamos" tvg-id="Vamos HD", 942. Vamos 720
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
