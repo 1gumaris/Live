@@ -205,16 +205,19 @@ Acestream://5da3c25c14d111cb9c33cf6e0b45b7cab88fe741
 Acestream://b779e6056975e3682a804d47cbd5cc806217f64d
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/DAZNf1.png" group-title="9. DAZN F1" tvg-id="DAZN F1 FHD", 91. DAZN F1 - 1080
-acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
+acestream://5789ca155323664edd293b848606688edf803f4d
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/DAZNf1.png" group-title="9. DAZN F1" tvg-id="DAZN F1 FHD v2", 92. DAZN F1 - 1080 v2
-acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/DAZNf1.png" group-title="9. DAZN F1" tvg-id="DAZN F1 HD", 93. DAZN F1 - 720
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/DAZNf1.png" group-title="9. DAZN F1" tvg-id="DAZN F1 HD v2", 94. DAZN F1 - 720 v2
 acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
 
-#EXTINF:-1 tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20180911181421_1200.jpg" group-title="9. M+ Vamos" tvg-id="Vamos FHD", 941. Vamos 1080 
+#EXTINF:-1 tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20180911181421_1200.jpg" group-title="9. M+ Vamos" tvg-id="Vamos FHD", 951. Vamos 1080 
 acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 
-#EXTINF:-1 tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20180911181421_1200.jpg" group-title="9. M+ Vamos" tvg-id="Vamos HD", 942. Vamos 720
+#EXTINF:-1 tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20180911181421_1200.jpg" group-title="9. M+ Vamos" tvg-id="Vamos HD", 952. Vamos 720
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
